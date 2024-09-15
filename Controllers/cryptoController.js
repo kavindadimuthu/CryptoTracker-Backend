@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+// const mongoose = require('mongoose');
 const axios = require('axios');
 
 exports.getCryptoCoins = async(req, res) => {
